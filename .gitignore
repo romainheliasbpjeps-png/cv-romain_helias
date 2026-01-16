@@ -48,6 +48,9 @@ temp/
 *.log
 logs/
 
+# Process IDs
+*.pid
+
 # Docker
 .dockerignore
 
